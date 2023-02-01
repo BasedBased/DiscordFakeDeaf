@@ -2,7 +2,7 @@
 pretty old bug that shows you in a voicechat deafened but you are able to hear and speak.
 
 # How To
-just paste the code into your discord dev console and you will see a green icon in the left corner of your screen.\
+just paste the code into your discord dev console and you will see a green button in the left corner of your screen.\
 made this in 5mins, so don´'t expect it to run stable.\
 ![image](https://user-images.githubusercontent.com/58124993/216171114-b050b63f-30cc-46c9-9231-2850df279681.png)
 
